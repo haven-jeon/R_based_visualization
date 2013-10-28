@@ -20,7 +20,7 @@ git clone https://github.com/haven-jeon/R_based_visualization.git
 
 ### 의문이 생겼을시 
 
-* mail to <madjakarta@gmail.com> 혹은 <freesearch.pe.kr>
+* mail to <madjakarta@gmail.com> 혹은 <http://freesearch.pe.kr>
 
 
 
