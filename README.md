@@ -18,7 +18,9 @@ git clone https://github.com/haven-jeon/R_based_visualization.git
 화면 우측 하단의 `Download ZIP` 버튼을 눌러 다운받는다. 
 
 
+### 의문이 생겼을시 
 
+* mail to <madjakarta@gmail.com> 혹은 <freesearch.pe.kr>
 
 
 
