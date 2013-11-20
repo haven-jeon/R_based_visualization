@@ -1,5 +1,4 @@
-## 제목 : R로하는 데이터 시각화 
-### 부제 :  고객을 설득하는 데이터 시각화 실전 노하우
+## [R로하는 데이터 시각화 :  고객을 설득하는 데이터 시각화 실전 노하우](http://www.hanb.co.kr/ebook/look.html?isbn=9788968486494)
 
 ![R로 하는 데이터 시각화](http://image.hanb.co.kr/ebookcover/m_9788968486494.gif)
 
